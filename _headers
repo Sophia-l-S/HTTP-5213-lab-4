@@ -4,3 +4,5 @@
   Content-Security-Policy: child-src 'self' app.netlify.com; script-src 'self' app.netlify.com netlify-cdp-loader.netlify.app;
 
 Permissions-Policy: <directive> <allowlist>
+
+Referrer-Policy: no-referrer
